@@ -1,2 +1,3 @@
-# wiki
-wiki stuff incase like i forget stuff
+# Wiki
+
+Yes, this a wiki. Click the wiki tab.
